@@ -7,4 +7,6 @@
 - Power Query
 - DAX
 
+## Excel Analysis
 
+![Excel Dashboard](https://github.com/murad9981/Bi-Report/blob/main/Screenshot%20\(760\).png "Screenshot (760\).png")  )
