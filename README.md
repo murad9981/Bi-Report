@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (759)" src="https://github.com/user-attachments/assets/9ea17168-f387-4993-ae7d-be5fce22de31" />
+<img width="1920" height="883" alt="Screenshot (759)" src="https://github.com/user-attachments/assets/a4037f76-c547-4707-a19d-b7af8468f110" />
 
 # Food Delivery App Dashboard | Power BI
 
